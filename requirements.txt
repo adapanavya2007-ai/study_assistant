@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+openai
+pypdf2
+sarvamai
+requests
