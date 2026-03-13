@@ -1,14 +1,14 @@
-📚 StudyAssistant
+##📚 StudyAssistant
 
 A simple AI-powered Study Assistant built using Flask that helps students understand study material easily using translation, text-to-speech, and speech-to-text features powered by Sarvam AI APIs.
 
-GitHub Repository:
+**GitHub Repository:**
 https://github.com/adapanavya2007-ai/studyassistant
 
 
 ---
 
-🚀 Features
+##🚀 Features
 
 🌍 Text Translation (Convert text from one language to another)
 
@@ -26,7 +26,7 @@ https://github.com/adapanavya2007-ai/studyassistant
 
 ---
 
-🛠 Tech Stack
+##🛠 Tech Stack
 
 Python
 
@@ -42,9 +42,9 @@ Python-dotenv
 
 ---
 
-▶ How to Run
+##▶ How to Run
 
-1️⃣ Create Virtual Environment
+**1️⃣ Create Virtual Environment**
 
 python -m venv venv
 
@@ -55,14 +55,14 @@ venv\Scripts\activate
 
 ---
 
-2️⃣ Install Dependencies
+**2️⃣ Install Dependencies**
 
 pip install -r requirements.txt
 
 
 ---
 
-3️⃣ Add Environment Variables
+**3️⃣ Add Environment Variables**
 
 Create a .env file in the project folder and add your Sarvam API key.
 
@@ -71,21 +71,21 @@ SARVAM_API_KEY=your_api_key_here
 
 ---
 
-4️⃣ Run the Application
+**4️⃣ Run the Application**
 
 python app.py
 
 
 ---
 
-5️⃣ Open in Browser
+**5️⃣ Open in Browser**
 
 http://127.0.0.1:5001/
 
 
 ---
 
-📁 Project Structure
+##📁 Project Structure
 
 StudyAssistant/
 │
@@ -98,7 +98,7 @@ StudyAssistant/
 
 ---
 
-🌐 API Endpoints
+**🌐 API Endpoints**
 
 Home
 
@@ -151,7 +151,7 @@ file – audio file(s) containing speech
 
 ---
 
-🌍 Push Project to GitHub
+##🌍 Push Project to GitHub
 
 1️⃣ Initialize Git
 
@@ -182,14 +182,14 @@ git push -u origin main
 
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Adapa Navya 
 
 
 ---
 
-⭐ Future Improvements
+##⭐ Future Improvements
 
 Add web interface for students
 
