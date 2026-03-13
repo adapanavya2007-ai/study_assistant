@@ -1,4 +1,4 @@
-##📚 StudyAssistant
+## 📚 StudyAssistant
 
 A simple AI-powered Study Assistant built using Flask that helps students understand study material easily using translation, text-to-speech, and speech-to-text features powered by Sarvam AI APIs.
 
@@ -8,7 +8,7 @@ https://github.com/adapanavya2007-ai/studyassistant
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 🌍 Text Translation (Convert text from one language to another)
 
@@ -26,7 +26,7 @@ https://github.com/adapanavya2007-ai/studyassistant
 
 ---
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -42,7 +42,7 @@ Python-dotenv
 
 ---
 
-##▶ How to Run
+## ▶ How to Run
 
 **1️⃣ Create Virtual Environment**
 
@@ -151,7 +151,7 @@ file – audio file(s) containing speech
 
 ---
 
-##🌍 Push Project to GitHub
+## 🌍 Push Project to GitHub
 
 1️⃣ Initialize Git
 
@@ -182,14 +182,14 @@ git push -u origin main
 
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Adapa Navya 
 
 
 ---
 
-##⭐ Future Improvements
+## ⭐ Future Improvements
 
 Add web interface for students
 
